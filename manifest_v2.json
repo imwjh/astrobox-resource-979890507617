@@ -7,10 +7,11 @@
     "preview": [
       "media/头图_2x3.jpg",
       "media/详情_2x3.jpg",
-      "media/BandMock_2x3.jpg"
+      "media/BandMock_2x3.jpg",
+      "media/10-09.png"
     ],
     "icon": "media/总览_1x1_扑克_500px.png",
-    "cover": "media/头图_3x2_V2.png",
+    "cover": "media/头图_3x2_V4.jpg",
     "author": [
       {
         "name": "seegood",
